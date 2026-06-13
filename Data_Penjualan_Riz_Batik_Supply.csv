@@ -1,0 +1,278 @@
+Tanggal_Order,ID_Order,Nama_Bahan_Baku,Kategori,Jumlah_Order,Satuan,Harga_Satuan,Total_Biaya,Nama_Supplier,Lokasi_Supplier,Tanggal_Diterima,Status_OTIF
+2023-01-14,PO-1001,Kulit Sapi Sukaregang,Leverage,182,Meter Persegi,220000,40040000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-02-07,OTIF
+2023-01-14,PO-1001,Benang Nylon Premium Coated,Non-Critical,266,Roll,18000,4788000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-01-20,OTIF
+2023-01-26,PO-1002,Kain Tenun Pahikung NTT,Strategic,41,Meter,350000,14350000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-02-09,OTIF
+2023-01-26,PO-1002,Aksesoris Logam Gold Premium,Bottleneck,171,Set,45000,7695000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-02-02,OTIF
+2023-01-26,PO-1002,Kain Furing Suede Interior,Non-Critical,198,Meter,35000,6930000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-01-31,OTIF
+2023-02-06,PO-1003,Kain Tenun Pahikung NTT,Strategic,96,Meter,350000,33600000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-02-22,OTIF
+2023-02-06,PO-1003,Kulit Sapi Sukaregang,Leverage,86,Meter Persegi,220000,18920000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-02-28,OTIF
+2023-02-06,PO-1003,Benang Nylon Premium Coated,Non-Critical,281,Roll,18000,5058000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-02-09,Late
+2023-02-06,PO-1003,Kain Furing Suede Interior,Non-Critical,391,Meter,35000,13685000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-02-10,OTIF
+2023-02-20,PO-1004,Kain Tenun Pahikung NTT,Strategic,46,Meter,350000,16100000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-03-17,OTIF
+2023-02-20,PO-1004,Kulit Sapi Sukaregang,Leverage,126,Meter Persegi,220000,27720000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-03-08,OTIF
+2023-02-20,PO-1004,Aksesoris Logam Gold Premium,Bottleneck,313,Set,45000,14085000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-02-24,OTIF
+2023-03-03,PO-1005,Aksesoris Logam Gold Premium,Bottleneck,340,Set,45000,15300000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-03-07,OTIF
+2023-03-03,PO-1005,Kain Tenun Pahikung NTT,Strategic,73,Meter,350000,25550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-03-26,OTIF
+2023-03-03,PO-1005,Benang Nylon Premium Coated,Non-Critical,163,Roll,18000,2934000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-03-09,OTIF
+2023-03-17,PO-1006,Kain Furing Suede Interior,Non-Critical,303,Meter,35000,10605000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-03-20,OTIF
+2023-03-17,PO-1006,Benang Nylon Premium Coated,Non-Critical,273,Roll,18000,4914000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-03-24,OTIF
+2023-03-31,PO-1007,Kain Furing Suede Interior,Non-Critical,278,Meter,35000,9730000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-04-06,OTIF
+2023-03-31,PO-1007,Kulit Sapi Sukaregang,Leverage,142,Meter Persegi,220000,31240000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-04-24,OTIF
+2023-04-12,PO-1008,Kain Furing Suede Interior,Non-Critical,380,Meter,35000,13300000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-04-16,OTIF
+2023-04-12,PO-1008,Kulit Sapi Sukaregang,Leverage,86,Meter Persegi,220000,18920000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-05-04,OTIF
+2023-04-12,PO-1008,Benang Nylon Premium Coated,Non-Critical,311,Roll,18000,5598000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-04-15,OTIF
+2023-04-12,PO-1008,Aksesoris Logam Gold Premium,Bottleneck,300,Set,45000,13500000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-04-19,OTIF
+2023-04-24,PO-1009,Kulit Sapi Sukaregang,Leverage,157,Meter Persegi,220000,34540000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-05-10,OTIF
+2023-04-24,PO-1009,Kain Furing Suede Interior,Non-Critical,367,Meter,35000,12845000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-04-29,OTIF
+2023-04-24,PO-1009,Benang Nylon Premium Coated,Non-Critical,164,Roll,18000,2952000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-04-28,OTIF
+2023-04-24,PO-1009,Aksesoris Logam Gold Premium,Bottleneck,354,Set,45000,15930000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-04-29,OTIF
+2023-05-04,PO-1010,Benang Nylon Premium Coated,Non-Critical,380,Roll,18000,6840000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-05-11,OTIF
+2023-05-04,PO-1010,Aksesoris Logam Gold Premium,Bottleneck,178,Set,45000,8010000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-05-10,Late
+2023-05-16,PO-1011,Aksesoris Logam Gold Premium,Bottleneck,211,Set,45000,9495000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-05-19,OTIF
+2023-05-16,PO-1011,Kain Tenun Pahikung NTT,Strategic,67,Meter,350000,23450000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-06-10,OTIF
+2023-05-16,PO-1011,Benang Nylon Premium Coated,Non-Critical,179,Roll,18000,3222000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-05-21,OTIF
+2023-05-16,PO-1011,Kulit Sapi Sukaregang,Leverage,198,Meter Persegi,220000,43560000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-06-05,OTIF
+2023-05-26,PO-1012,Benang Nylon Premium Coated,Non-Critical,354,Roll,18000,6372000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-05-29,OTIF
+2023-05-26,PO-1012,Kain Furing Suede Interior,Non-Critical,347,Meter,35000,12145000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-05-31,OTIF
+2023-06-09,PO-1013,Kain Furing Suede Interior,Non-Critical,267,Meter,35000,9345000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-06-12,OTIF
+2023-06-09,PO-1013,Kain Tenun Pahikung NTT,Strategic,88,Meter,350000,30800000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-07-04,OTIF
+2023-06-20,PO-1014,Aksesoris Logam Gold Premium,Bottleneck,230,Set,45000,10350000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-06-25,OTIF
+2023-06-20,PO-1014,Kulit Sapi Sukaregang,Leverage,81,Meter Persegi,220000,17820000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-07-08,OTIF
+2023-06-20,PO-1014,Kain Furing Suede Interior,Non-Critical,278,Meter,35000,9730000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-06-25,OTIF
+2023-06-20,PO-1014,Benang Nylon Premium Coated,Non-Critical,202,Roll,18000,3636000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-06-26,OTIF
+2023-07-03,PO-1015,Kulit Sapi Sukaregang,Leverage,117,Meter Persegi,220000,25740000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-07-21,OTIF
+2023-07-03,PO-1015,Kain Tenun Pahikung NTT,Strategic,45,Meter,350000,15750000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-07-27,OTIF
+2023-07-03,PO-1015,Benang Nylon Premium Coated,Non-Critical,293,Roll,18000,5274000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-07-06,OTIF
+2023-07-03,PO-1015,Kain Furing Suede Interior,Non-Critical,336,Meter,35000,11760000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-07-10,OTIF
+2023-07-16,PO-1016,Benang Nylon Premium Coated,Non-Critical,296,Roll,18000,5328000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-07-22,OTIF
+2023-07-16,PO-1016,Kain Tenun Pahikung NTT,Strategic,91,Meter,350000,31850000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-08-07,OTIF
+2023-07-16,PO-1016,Kulit Sapi Sukaregang,Leverage,118,Meter Persegi,220000,25960000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-08-06,OTIF
+2023-07-16,PO-1016,Aksesoris Logam Gold Premium,Bottleneck,369,Set,45000,16605000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-07-19,OTIF
+2023-07-27,PO-1017,Kain Tenun Pahikung NTT,Strategic,96,Meter,350000,33600000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-08-26,OTIF
+2023-07-27,PO-1017,Aksesoris Logam Gold Premium,Bottleneck,197,Set,45000,8865000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-08-02,OTIF
+2023-07-27,PO-1017,Kulit Sapi Sukaregang,Leverage,111,Meter Persegi,220000,24420000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-08-18,OTIF
+2023-07-27,PO-1017,Benang Nylon Premium Coated,Non-Critical,296,Roll,18000,5328000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-01,OTIF
+2023-08-06,PO-1018,Benang Nylon Premium Coated,Non-Critical,233,Roll,18000,4194000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-11,OTIF
+2023-08-06,PO-1018,Aksesoris Logam Gold Premium,Bottleneck,366,Set,45000,16470000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-08-11,Late
+2023-08-06,PO-1018,Kulit Sapi Sukaregang,Leverage,97,Meter Persegi,220000,21340000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-09-02,OTIF
+2023-08-06,PO-1018,Kain Furing Suede Interior,Non-Critical,203,Meter,35000,7105000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-11,OTIF
+2023-08-16,PO-1019,Aksesoris Logam Gold Premium,Bottleneck,197,Set,45000,8865000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-08-22,OTIF
+2023-08-16,PO-1019,Benang Nylon Premium Coated,Non-Critical,285,Roll,18000,5130000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-21,OTIF
+2023-08-26,PO-1020,Kain Tenun Pahikung NTT,Strategic,85,Meter,350000,29750000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-09-14,Late
+2023-08-26,PO-1020,Kain Furing Suede Interior,Non-Critical,200,Meter,35000,7000000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-31,OTIF
+2023-08-26,PO-1020,Benang Nylon Premium Coated,Non-Critical,170,Roll,18000,3060000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-08-29,OTIF
+2023-08-26,PO-1020,Kulit Sapi Sukaregang,Leverage,143,Meter Persegi,220000,31460000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-09-09,OTIF
+2023-09-09,PO-1021,Benang Nylon Premium Coated,Non-Critical,166,Roll,18000,2988000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-09-15,Late
+2023-09-09,PO-1021,Kulit Sapi Sukaregang,Leverage,172,Meter Persegi,220000,37840000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-10-06,Incomplete
+2023-09-09,PO-1021,Kain Tenun Pahikung NTT,Strategic,74,Meter,350000,25900000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-10-01,Late
+2023-09-09,PO-1021,Aksesoris Logam Gold Premium,Bottleneck,242,Set,45000,10890000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-09-12,OTIF
+2023-09-21,PO-1022,Kulit Sapi Sukaregang,Leverage,111,Meter Persegi,220000,24420000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-10-05,OTIF
+2023-09-21,PO-1022,Benang Nylon Premium Coated,Non-Critical,277,Roll,18000,4986000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-09-25,OTIF
+2023-10-02,PO-1023,Kain Tenun Pahikung NTT,Strategic,62,Meter,350000,21700000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-10-17,OTIF
+2023-10-02,PO-1023,Benang Nylon Premium Coated,Non-Critical,383,Roll,18000,6894000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-10-06,OTIF
+2023-10-02,PO-1023,Aksesoris Logam Gold Premium,Bottleneck,253,Set,45000,11385000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-10-05,OTIF
+2023-10-02,PO-1023,Kain Furing Suede Interior,Non-Critical,395,Meter,35000,13825000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-10-09,OTIF
+2023-10-13,PO-1024,Aksesoris Logam Gold Premium,Bottleneck,399,Set,45000,17955000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-10-16,OTIF
+2023-10-13,PO-1024,Benang Nylon Premium Coated,Non-Critical,169,Roll,18000,3042000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-10-16,OTIF
+2023-10-13,PO-1024,Kain Furing Suede Interior,Non-Critical,387,Meter,35000,13545000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-10-19,OTIF
+2023-10-13,PO-1024,Kain Tenun Pahikung NTT,Strategic,54,Meter,350000,18900000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-10-28,OTIF
+2023-10-25,PO-1025,Kain Furing Suede Interior,Non-Critical,299,Meter,35000,10465000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-10-29,OTIF
+2023-10-25,PO-1025,Kain Tenun Pahikung NTT,Strategic,88,Meter,350000,30800000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-11-17,OTIF
+2023-11-06,PO-1026,Aksesoris Logam Gold Premium,Bottleneck,385,Set,45000,17325000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-11-12,OTIF
+2023-11-06,PO-1026,Kulit Sapi Sukaregang,Leverage,147,Meter Persegi,220000,32340000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-11-25,OTIF
+2023-11-19,PO-1027,Kain Furing Suede Interior,Non-Critical,273,Meter,35000,9555000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-11-23,OTIF
+2023-11-19,PO-1027,Kulit Sapi Sukaregang,Leverage,96,Meter Persegi,220000,21120000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2023-12-07,OTIF
+2023-11-19,PO-1027,Kain Tenun Pahikung NTT,Strategic,62,Meter,350000,21700000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2023-12-11,OTIF
+2023-11-29,PO-1028,Kain Furing Suede Interior,Non-Critical,245,Meter,35000,8575000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-12-02,OTIF
+2023-11-29,PO-1028,Benang Nylon Premium Coated,Non-Critical,266,Roll,18000,4788000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-12-02,Late
+2023-11-29,PO-1028,Aksesoris Logam Gold Premium,Bottleneck,380,Set,45000,17100000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2023-12-06,OTIF
+2023-12-11,PO-1029,Benang Nylon Premium Coated,Non-Critical,178,Roll,18000,3204000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-12-17,OTIF
+2023-12-11,PO-1029,Kain Furing Suede Interior,Non-Critical,390,Meter,35000,13650000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-12-17,OTIF
+2023-12-11,PO-1029,Kulit Sapi Sukaregang,Leverage,95,Meter Persegi,220000,20900000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-01-09,OTIF
+2023-12-24,PO-1030,Kain Tenun Pahikung NTT,Strategic,93,Meter,350000,32550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-01-11,OTIF
+2023-12-24,PO-1030,Kain Furing Suede Interior,Non-Critical,329,Meter,35000,11515000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2023-12-28,OTIF
+2024-01-04,PO-1031,Kain Furing Suede Interior,Non-Critical,390,Meter,35000,13650000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-01-10,OTIF
+2024-01-04,PO-1031,Kulit Sapi Sukaregang,Leverage,170,Meter Persegi,220000,37400000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-01-29,OTIF
+2024-01-17,PO-1032,Kulit Sapi Sukaregang,Leverage,180,Meter Persegi,220000,39600000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-02-11,OTIF
+2024-01-17,PO-1032,Kain Furing Suede Interior,Non-Critical,310,Meter,35000,10850000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-01-21,OTIF
+2024-01-31,PO-1033,Kain Tenun Pahikung NTT,Strategic,100,Meter,350000,35000000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-02-16,OTIF
+2024-01-31,PO-1033,Benang Nylon Premium Coated,Non-Critical,239,Roll,18000,4302000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-02-07,OTIF
+2024-02-11,PO-1034,Benang Nylon Premium Coated,Non-Critical,345,Roll,18000,6210000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-02-15,OTIF
+2024-02-11,PO-1034,Kain Furing Suede Interior,Non-Critical,386,Meter,35000,13510000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-02-16,OTIF
+2024-02-11,PO-1034,Kain Tenun Pahikung NTT,Strategic,75,Meter,350000,26250000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-02-28,OTIF
+2024-02-21,PO-1035,Kain Furing Suede Interior,Non-Critical,380,Meter,35000,13300000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-02-28,OTIF
+2024-02-21,PO-1035,Benang Nylon Premium Coated,Non-Critical,332,Roll,18000,5976000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-02-28,OTIF
+2024-02-21,PO-1035,Kulit Sapi Sukaregang,Leverage,178,Meter Persegi,220000,39160000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-03-14,OTIF
+2024-02-21,PO-1035,Aksesoris Logam Gold Premium,Bottleneck,262,Set,45000,11790000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-02-27,OTIF
+2024-03-06,PO-1036,Kulit Sapi Sukaregang,Leverage,98,Meter Persegi,220000,21560000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-03-31,OTIF
+2024-03-06,PO-1036,Benang Nylon Premium Coated,Non-Critical,177,Roll,18000,3186000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-03-12,OTIF
+2024-03-06,PO-1036,Kain Furing Suede Interior,Non-Critical,260,Meter,35000,9100000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-03-13,OTIF
+2024-03-06,PO-1036,Kain Tenun Pahikung NTT,Strategic,51,Meter,350000,17850000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-03-23,Late
+2024-03-16,PO-1037,Kain Furing Suede Interior,Non-Critical,316,Meter,35000,11060000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-03-20,OTIF
+2024-03-16,PO-1037,Aksesoris Logam Gold Premium,Bottleneck,364,Set,45000,16380000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-03-23,OTIF
+2024-03-16,PO-1037,Kulit Sapi Sukaregang,Leverage,97,Meter Persegi,220000,21340000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-04-13,OTIF
+2024-03-16,PO-1037,Kain Tenun Pahikung NTT,Strategic,49,Meter,350000,17150000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-04-10,OTIF
+2024-03-30,PO-1038,Benang Nylon Premium Coated,Non-Critical,343,Roll,18000,6174000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-04-06,OTIF
+2024-03-30,PO-1038,Kain Furing Suede Interior,Non-Critical,315,Meter,35000,11025000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-04-04,OTIF
+2024-03-30,PO-1038,Aksesoris Logam Gold Premium,Bottleneck,258,Set,45000,11610000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-04-02,OTIF
+2024-04-09,PO-1039,Kain Furing Suede Interior,Non-Critical,308,Meter,35000,10780000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-04-14,OTIF
+2024-04-09,PO-1039,Aksesoris Logam Gold Premium,Bottleneck,331,Set,45000,14895000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-04-14,OTIF
+2024-04-09,PO-1039,Kulit Sapi Sukaregang,Leverage,98,Meter Persegi,220000,21560000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-04-29,OTIF
+2024-04-09,PO-1039,Benang Nylon Premium Coated,Non-Critical,322,Roll,18000,5796000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-04-16,OTIF
+2024-04-20,PO-1040,Kulit Sapi Sukaregang,Leverage,156,Meter Persegi,220000,34320000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-05-20,OTIF
+2024-04-20,PO-1040,Kain Furing Suede Interior,Non-Critical,310,Meter,35000,10850000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-04-27,Late
+2024-05-03,PO-1041,Kulit Sapi Sukaregang,Leverage,159,Meter Persegi,220000,34980000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-05-27,Incomplete
+2024-05-03,PO-1041,Kain Furing Suede Interior,Non-Critical,313,Meter,35000,10955000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-05-08,OTIF
+2024-05-13,PO-1042,Aksesoris Logam Gold Premium,Bottleneck,308,Set,45000,13860000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-05-16,OTIF
+2024-05-13,PO-1042,Kain Furing Suede Interior,Non-Critical,267,Meter,35000,9345000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-05-18,OTIF
+2024-05-13,PO-1042,Kulit Sapi Sukaregang,Leverage,136,Meter Persegi,220000,29920000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-06-06,OTIF
+2024-05-26,PO-1043,Kain Tenun Pahikung NTT,Strategic,97,Meter,350000,33950000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-06-13,Late
+2024-05-26,PO-1043,Aksesoris Logam Gold Premium,Bottleneck,341,Set,45000,15345000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-05-31,OTIF
+2024-06-05,PO-1044,Aksesoris Logam Gold Premium,Bottleneck,389,Set,45000,17505000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-06-12,OTIF
+2024-06-05,PO-1044,Kulit Sapi Sukaregang,Leverage,114,Meter Persegi,220000,25080000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-06-24,Late
+2024-06-19,PO-1045,Benang Nylon Premium Coated,Non-Critical,179,Roll,18000,3222000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-06-23,OTIF
+2024-06-19,PO-1045,Aksesoris Logam Gold Premium,Bottleneck,154,Set,45000,6930000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-06-22,OTIF
+2024-06-19,PO-1045,Kain Furing Suede Interior,Non-Critical,295,Meter,35000,10325000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-06-22,OTIF
+2024-06-19,PO-1045,Kulit Sapi Sukaregang,Leverage,105,Meter Persegi,220000,23100000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-07-19,OTIF
+2024-06-30,PO-1046,Kulit Sapi Sukaregang,Leverage,191,Meter Persegi,220000,42020000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-07-19,OTIF
+2024-06-30,PO-1046,Kain Furing Suede Interior,Non-Critical,346,Meter,35000,12110000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-07-07,Late
+2024-07-14,PO-1047,Aksesoris Logam Gold Premium,Bottleneck,351,Set,45000,15795000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-07-19,OTIF
+2024-07-14,PO-1047,Kulit Sapi Sukaregang,Leverage,157,Meter Persegi,220000,34540000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-08-05,OTIF
+2024-07-14,PO-1047,Kain Furing Suede Interior,Non-Critical,200,Meter,35000,7000000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-07-21,OTIF
+2024-07-14,PO-1047,Kain Tenun Pahikung NTT,Strategic,40,Meter,350000,14000000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-08-13,OTIF
+2024-07-25,PO-1048,Kain Tenun Pahikung NTT,Strategic,93,Meter,350000,32550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-08-10,OTIF
+2024-07-25,PO-1048,Aksesoris Logam Gold Premium,Bottleneck,161,Set,45000,7245000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-07-28,OTIF
+2024-07-25,PO-1048,Kain Furing Suede Interior,Non-Critical,282,Meter,35000,9870000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-07-30,OTIF
+2024-07-25,PO-1048,Benang Nylon Premium Coated,Non-Critical,261,Roll,18000,4698000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-08-01,OTIF
+2024-08-05,PO-1049,Kain Tenun Pahikung NTT,Strategic,99,Meter,350000,34650000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-08-20,OTIF
+2024-08-05,PO-1049,Kain Furing Suede Interior,Non-Critical,247,Meter,35000,8645000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-08-09,OTIF
+2024-08-05,PO-1049,Kulit Sapi Sukaregang,Leverage,170,Meter Persegi,220000,37400000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-08-20,OTIF
+2024-08-05,PO-1049,Benang Nylon Premium Coated,Non-Critical,315,Roll,18000,5670000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-08-08,OTIF
+2024-08-18,PO-1050,Benang Nylon Premium Coated,Non-Critical,178,Roll,18000,3204000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-08-24,OTIF
+2024-08-18,PO-1050,Kain Furing Suede Interior,Non-Critical,294,Meter,35000,10290000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-08-22,OTIF
+2024-08-18,PO-1050,Kain Tenun Pahikung NTT,Strategic,59,Meter,350000,20650000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-09-05,Late
+2024-09-01,PO-1051,Kain Furing Suede Interior,Non-Critical,389,Meter,35000,13615000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-09-06,OTIF
+2024-09-01,PO-1051,Kain Tenun Pahikung NTT,Strategic,96,Meter,350000,33600000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-09-30,OTIF
+2024-09-01,PO-1051,Aksesoris Logam Gold Premium,Bottleneck,267,Set,45000,12015000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-09-07,OTIF
+2024-09-11,PO-1052,Kain Furing Suede Interior,Non-Critical,327,Meter,35000,11445000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-09-18,OTIF
+2024-09-11,PO-1052,Kulit Sapi Sukaregang,Leverage,98,Meter Persegi,220000,21560000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-09-29,OTIF
+2024-09-11,PO-1052,Kain Tenun Pahikung NTT,Strategic,81,Meter,350000,28350000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-09-30,OTIF
+2024-09-11,PO-1052,Benang Nylon Premium Coated,Non-Critical,382,Roll,18000,6876000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-09-17,OTIF
+2024-09-22,PO-1053,Benang Nylon Premium Coated,Non-Critical,175,Roll,18000,3150000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-09-25,OTIF
+2024-09-22,PO-1053,Kain Furing Suede Interior,Non-Critical,363,Meter,35000,12705000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-09-27,Incomplete
+2024-10-06,PO-1054,Aksesoris Logam Gold Premium,Bottleneck,262,Set,45000,11790000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-10-11,OTIF
+2024-10-06,PO-1054,Benang Nylon Premium Coated,Non-Critical,356,Roll,18000,6408000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-10-10,OTIF
+2024-10-17,PO-1055,Kain Tenun Pahikung NTT,Strategic,90,Meter,350000,31500000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-11-06,OTIF
+2024-10-17,PO-1055,Kain Furing Suede Interior,Non-Critical,300,Meter,35000,10500000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-10-22,OTIF
+2024-10-31,PO-1056,Kain Furing Suede Interior,Non-Critical,164,Meter,35000,5740000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-11-03,OTIF
+2024-10-31,PO-1056,Kain Tenun Pahikung NTT,Strategic,67,Meter,350000,23450000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-11-23,OTIF
+2024-10-31,PO-1056,Aksesoris Logam Gold Premium,Bottleneck,166,Set,45000,7470000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-11-04,OTIF
+2024-11-10,PO-1057,Aksesoris Logam Gold Premium,Bottleneck,287,Set,45000,12915000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-11-15,OTIF
+2024-11-10,PO-1057,Kulit Sapi Sukaregang,Leverage,97,Meter Persegi,220000,21340000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-12-08,OTIF
+2024-11-21,PO-1058,Benang Nylon Premium Coated,Non-Critical,318,Roll,18000,5724000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-11-28,OTIF
+2024-11-21,PO-1058,Kulit Sapi Sukaregang,Leverage,105,Meter Persegi,220000,23100000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2024-12-06,OTIF
+2024-11-21,PO-1058,Aksesoris Logam Gold Premium,Bottleneck,208,Set,45000,9360000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-11-28,OTIF
+2024-11-21,PO-1058,Kain Furing Suede Interior,Non-Critical,270,Meter,35000,9450000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-11-24,OTIF
+2024-12-05,PO-1059,Kain Tenun Pahikung NTT,Strategic,69,Meter,350000,24150000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2024-12-27,OTIF
+2024-12-05,PO-1059,Benang Nylon Premium Coated,Non-Critical,392,Roll,18000,7056000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-12-12,Late
+2024-12-05,PO-1059,Aksesoris Logam Gold Premium,Bottleneck,372,Set,45000,16740000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-12-09,OTIF
+2024-12-17,PO-1060,Aksesoris Logam Gold Premium,Bottleneck,211,Set,45000,9495000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2024-12-20,OTIF
+2024-12-17,PO-1060,Benang Nylon Premium Coated,Non-Critical,352,Roll,18000,6336000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-12-21,OTIF
+2024-12-17,PO-1060,Kain Furing Suede Interior,Non-Critical,193,Meter,35000,6755000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2024-12-24,OTIF
+2024-12-17,PO-1060,Kulit Sapi Sukaregang,Leverage,197,Meter Persegi,220000,43340000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-01-03,OTIF
+2024-12-27,PO-1061,Benang Nylon Premium Coated,Non-Critical,291,Roll,18000,5238000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-01-03,OTIF
+2024-12-27,PO-1061,Kulit Sapi Sukaregang,Leverage,179,Meter Persegi,220000,39380000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-01-22,OTIF
+2025-01-06,PO-1062,Aksesoris Logam Gold Premium,Bottleneck,300,Set,45000,13500000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-01-10,Late
+2025-01-06,PO-1062,Kain Tenun Pahikung NTT,Strategic,52,Meter,350000,18200000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-01-27,OTIF
+2025-01-06,PO-1062,Benang Nylon Premium Coated,Non-Critical,214,Roll,18000,3852000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-01-13,OTIF
+2025-01-16,PO-1063,Kain Furing Suede Interior,Non-Critical,218,Meter,35000,7630000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-01-22,Late
+2025-01-16,PO-1063,Kain Tenun Pahikung NTT,Strategic,53,Meter,350000,18550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-02-09,Incomplete
+2025-01-16,PO-1063,Benang Nylon Premium Coated,Non-Critical,225,Roll,18000,4050000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-01-21,OTIF
+2025-01-16,PO-1063,Kulit Sapi Sukaregang,Leverage,119,Meter Persegi,220000,26180000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-02-06,OTIF
+2025-01-30,PO-1064,Benang Nylon Premium Coated,Non-Critical,314,Roll,18000,5652000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-02-06,OTIF
+2025-01-30,PO-1064,Kain Tenun Pahikung NTT,Strategic,53,Meter,350000,18550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-02-16,OTIF
+2025-01-30,PO-1064,Aksesoris Logam Gold Premium,Bottleneck,191,Set,45000,8595000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-02-02,OTIF
+2025-02-11,PO-1065,Kulit Sapi Sukaregang,Leverage,176,Meter Persegi,220000,38720000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-03-13,OTIF
+2025-02-11,PO-1065,Benang Nylon Premium Coated,Non-Critical,396,Roll,18000,7128000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-02-15,OTIF
+2025-02-23,PO-1066,Benang Nylon Premium Coated,Non-Critical,284,Roll,18000,5112000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-02-28,OTIF
+2025-02-23,PO-1066,Kain Tenun Pahikung NTT,Strategic,91,Meter,350000,31850000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-03-23,OTIF
+2025-02-23,PO-1066,Kain Furing Suede Interior,Non-Critical,182,Meter,35000,6370000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-03-01,OTIF
+2025-02-23,PO-1066,Kulit Sapi Sukaregang,Leverage,106,Meter Persegi,220000,23320000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-03-12,Late
+2025-03-05,PO-1067,Kulit Sapi Sukaregang,Leverage,112,Meter Persegi,220000,24640000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-03-22,OTIF
+2025-03-05,PO-1067,Kain Furing Suede Interior,Non-Critical,159,Meter,35000,5565000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-03-12,OTIF
+2025-03-15,PO-1068,Kain Tenun Pahikung NTT,Strategic,84,Meter,350000,29400000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-04-12,OTIF
+2025-03-15,PO-1068,Kulit Sapi Sukaregang,Leverage,84,Meter Persegi,220000,18480000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-04-12,OTIF
+2025-03-15,PO-1068,Kain Furing Suede Interior,Non-Critical,322,Meter,35000,11270000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-03-19,OTIF
+2025-03-27,PO-1069,Aksesoris Logam Gold Premium,Bottleneck,176,Set,45000,7920000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-04-03,OTIF
+2025-03-27,PO-1069,Kain Tenun Pahikung NTT,Strategic,49,Meter,350000,17150000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-04-17,OTIF
+2025-03-27,PO-1069,Kulit Sapi Sukaregang,Leverage,151,Meter Persegi,220000,33220000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-04-24,OTIF
+2025-03-27,PO-1069,Benang Nylon Premium Coated,Non-Critical,256,Roll,18000,4608000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-04-02,Incomplete
+2025-04-07,PO-1070,Benang Nylon Premium Coated,Non-Critical,385,Roll,18000,6930000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-04-13,Incomplete
+2025-04-07,PO-1070,Kulit Sapi Sukaregang,Leverage,84,Meter Persegi,220000,18480000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-04-25,OTIF
+2025-04-18,PO-1071,Benang Nylon Premium Coated,Non-Critical,395,Roll,18000,7110000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-04-23,OTIF
+2025-04-18,PO-1071,Kain Tenun Pahikung NTT,Strategic,79,Meter,350000,27650000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-05-10,Incomplete
+2025-04-28,PO-1072,Kain Furing Suede Interior,Non-Critical,313,Meter,35000,10955000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-05-01,OTIF
+2025-04-28,PO-1072,Aksesoris Logam Gold Premium,Bottleneck,331,Set,45000,14895000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-05-03,OTIF
+2025-04-28,PO-1072,Kulit Sapi Sukaregang,Leverage,100,Meter Persegi,220000,22000000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-05-26,OTIF
+2025-05-08,PO-1073,Aksesoris Logam Gold Premium,Bottleneck,318,Set,45000,14310000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-05-13,OTIF
+2025-05-08,PO-1073,Kulit Sapi Sukaregang,Leverage,104,Meter Persegi,220000,22880000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-06-01,Incomplete
+2025-05-08,PO-1073,Benang Nylon Premium Coated,Non-Critical,284,Roll,18000,5112000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-05-12,OTIF
+2025-05-20,PO-1074,Kulit Sapi Sukaregang,Leverage,133,Meter Persegi,220000,29260000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-06-09,OTIF
+2025-05-20,PO-1074,Kain Tenun Pahikung NTT,Strategic,92,Meter,350000,32200000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-06-03,OTIF
+2025-06-01,PO-1075,Aksesoris Logam Gold Premium,Bottleneck,198,Set,45000,8910000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-06-04,Late
+2025-06-01,PO-1075,Kain Tenun Pahikung NTT,Strategic,88,Meter,350000,30800000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-06-22,OTIF
+2025-06-01,PO-1075,Benang Nylon Premium Coated,Non-Critical,150,Roll,18000,2700000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-06-08,OTIF
+2025-06-13,PO-1076,Benang Nylon Premium Coated,Non-Critical,198,Roll,18000,3564000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-06-20,OTIF
+2025-06-13,PO-1076,Kain Tenun Pahikung NTT,Strategic,55,Meter,350000,19250000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-07-04,OTIF
+2025-06-13,PO-1076,Kain Furing Suede Interior,Non-Critical,150,Meter,35000,5250000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-06-18,OTIF
+2025-06-13,PO-1076,Kulit Sapi Sukaregang,Leverage,145,Meter Persegi,220000,31900000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-07-13,OTIF
+2025-06-25,PO-1077,Kulit Sapi Sukaregang,Leverage,182,Meter Persegi,220000,40040000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-07-11,OTIF
+2025-06-25,PO-1077,Aksesoris Logam Gold Premium,Bottleneck,351,Set,45000,15795000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-06-30,OTIF
+2025-06-25,PO-1077,Benang Nylon Premium Coated,Non-Critical,273,Roll,18000,4914000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-06-28,OTIF
+2025-06-25,PO-1077,Kain Tenun Pahikung NTT,Strategic,67,Meter,350000,23450000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-07-15,OTIF
+2025-07-05,PO-1078,Kulit Sapi Sukaregang,Leverage,151,Meter Persegi,220000,33220000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-08-02,OTIF
+2025-07-05,PO-1078,Kain Tenun Pahikung NTT,Strategic,90,Meter,350000,31500000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-07-19,OTIF
+2025-07-16,PO-1079,Benang Nylon Premium Coated,Non-Critical,362,Roll,18000,6516000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-07-20,OTIF
+2025-07-16,PO-1079,Kulit Sapi Sukaregang,Leverage,86,Meter Persegi,220000,18920000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-07-30,OTIF
+2025-07-16,PO-1079,Kain Tenun Pahikung NTT,Strategic,58,Meter,350000,20300000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-08-14,OTIF
+2025-07-16,PO-1079,Kain Furing Suede Interior,Non-Critical,185,Meter,35000,6475000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-07-23,OTIF
+2025-07-27,PO-1080,Kain Tenun Pahikung NTT,Strategic,41,Meter,350000,14350000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-08-12,OTIF
+2025-07-27,PO-1080,Kulit Sapi Sukaregang,Leverage,91,Meter Persegi,220000,20020000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-08-14,OTIF
+2025-08-06,PO-1081,Kain Tenun Pahikung NTT,Strategic,97,Meter,350000,33950000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-08-31,OTIF
+2025-08-06,PO-1081,Kulit Sapi Sukaregang,Leverage,153,Meter Persegi,220000,33660000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-09-02,OTIF
+2025-08-06,PO-1081,Aksesoris Logam Gold Premium,Bottleneck,373,Set,45000,16785000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-08-09,OTIF
+2025-08-16,PO-1082,Aksesoris Logam Gold Premium,Bottleneck,174,Set,45000,7830000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-08-19,OTIF
+2025-08-16,PO-1082,Benang Nylon Premium Coated,Non-Critical,384,Roll,18000,6912000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-08-22,OTIF
+2025-08-16,PO-1082,Kulit Sapi Sukaregang,Leverage,108,Meter Persegi,220000,23760000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-09-11,OTIF
+2025-08-30,PO-1083,Aksesoris Logam Gold Premium,Bottleneck,249,Set,45000,11205000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-09-02,OTIF
+2025-08-30,PO-1083,Benang Nylon Premium Coated,Non-Critical,166,Roll,18000,2988000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-09-06,OTIF
+2025-08-30,PO-1083,Kain Tenun Pahikung NTT,Strategic,97,Meter,350000,33950000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-09-24,OTIF
+2025-08-30,PO-1083,Kain Furing Suede Interior,Non-Critical,255,Meter,35000,8925000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-09-06,OTIF
+2025-09-11,PO-1084,Kulit Sapi Sukaregang,Leverage,150,Meter Persegi,220000,33000000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-10-04,Incomplete
+2025-09-11,PO-1084,Aksesoris Logam Gold Premium,Bottleneck,303,Set,45000,13635000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-09-18,OTIF
+2025-09-11,PO-1084,Benang Nylon Premium Coated,Non-Critical,271,Roll,18000,4878000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-09-15,OTIF
+2025-09-23,PO-1085,Kain Furing Suede Interior,Non-Critical,178,Meter,35000,6230000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-09-30,OTIF
+2025-09-23,PO-1085,Kulit Sapi Sukaregang,Leverage,90,Meter Persegi,220000,19800000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-10-10,OTIF
+2025-10-05,PO-1086,Kain Tenun Pahikung NTT,Strategic,93,Meter,350000,32550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-10-23,OTIF
+2025-10-05,PO-1086,Benang Nylon Premium Coated,Non-Critical,399,Roll,18000,7182000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-10-11,OTIF
+2025-10-05,PO-1086,Kain Furing Suede Interior,Non-Critical,360,Meter,35000,12600000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-10-10,OTIF
+2025-10-15,PO-1087,Kain Furing Suede Interior,Non-Critical,350,Meter,35000,12250000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-10-19,OTIF
+2025-10-15,PO-1087,Kulit Sapi Sukaregang,Leverage,152,Meter Persegi,220000,33440000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-11-06,OTIF
+2025-10-15,PO-1087,Benang Nylon Premium Coated,Non-Critical,278,Roll,18000,5004000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-10-18,OTIF
+2025-10-26,PO-1088,Kain Furing Suede Interior,Non-Critical,257,Meter,35000,8995000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-11-01,Late
+2025-10-26,PO-1088,Kain Tenun Pahikung NTT,Strategic,77,Meter,350000,26950000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-11-10,OTIF
+2025-11-09,PO-1089,Kulit Sapi Sukaregang,Leverage,153,Meter Persegi,220000,33660000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-12-09,OTIF
+2025-11-09,PO-1089,Benang Nylon Premium Coated,Non-Critical,211,Roll,18000,3798000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-11-14,OTIF
+2025-11-09,PO-1089,Kain Furing Suede Interior,Non-Critical,298,Meter,35000,10430000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-11-12,OTIF
+2025-11-09,PO-1089,Kain Tenun Pahikung NTT,Strategic,93,Meter,350000,32550000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-12-08,OTIF
+2025-11-19,PO-1090,Kulit Sapi Sukaregang,Leverage,105,Meter Persegi,220000,23100000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-12-11,Late
+2025-11-19,PO-1090,Benang Nylon Premium Coated,Non-Critical,196,Roll,18000,3528000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-11-23,OTIF
+2025-11-19,PO-1090,Aksesoris Logam Gold Premium,Bottleneck,294,Set,45000,13230000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-11-23,OTIF
+2025-11-30,PO-1091,Kulit Sapi Sukaregang,Leverage,127,Meter Persegi,220000,27940000,CV Sukaregang Perkasa,"Garut, Jawa Barat",2025-12-21,Late
+2025-11-30,PO-1091,Kain Furing Suede Interior,Non-Critical,364,Meter,35000,12740000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-12-07,OTIF
+2025-11-30,PO-1091,Kain Tenun Pahikung NTT,Strategic,69,Meter,350000,24150000,Kelompok Penenun Ikat Sumba,"Sumba Timur, NTT",2025-12-20,OTIF
+2025-11-30,PO-1091,Aksesoris Logam Gold Premium,Bottleneck,336,Set,45000,15120000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-12-04,OTIF
+2025-12-12,PO-1092,Benang Nylon Premium Coated,Non-Critical,317,Roll,18000,5706000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-12-16,OTIF
+2025-12-12,PO-1092,Kain Furing Suede Interior,Non-Critical,257,Meter,35000,8995000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-12-15,OTIF
+2025-12-22,PO-1093,Aksesoris Logam Gold Premium,Bottleneck,257,Set,45000,11565000,PT Metalindo Logam Jaya,"Bandung, Jawa Barat",2025-12-26,OTIF
+2025-12-22,PO-1093,Benang Nylon Premium Coated,Non-Critical,319,Roll,18000,5742000,Toko Tekstil Jaya Mandiri,"Bandung, Jawa Barat",2025-12-26,OTIF
